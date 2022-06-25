@@ -115,5 +115,8 @@ chkpt/
 # PyCharm
 .idea/
 
+# vscode 
+.vscode/
+
 # Vim
 *.swp
